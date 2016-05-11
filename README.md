@@ -3,7 +3,7 @@ News Website
 <h1>News 10</h1>
 <hr>
 <ul>
-  <li>Home</li>
+  <a herf="#"><li>Home</li></a>
    <li>Home</li>
     <li>Home</li>
      <li>Home</li>
