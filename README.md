@@ -11,6 +11,6 @@
        <li><a href="#">Sports</li></a>
 </ul>
 <hr>
-
+<footer>News 10 &copy; 2016</footer>
 </body>
 </html>  
