@@ -4,12 +4,13 @@
 <link type="stylesheet" rel="type/css" href="#">
 </head>
 <h1>News 10</h1>
-<hr>
 <ul>
   <li><a href="#">Home</li></a>
-   <li>Home</li>
-    <li>Home</li>
-     <li>Home</li>
+   <li><a href="#">News</li></a>
+     <li><a href="#">Weather</li></a>
+       <li><a href="#">Sports</li></a>
 </ul>
+<hr>
+
 </body>
 </html>  
